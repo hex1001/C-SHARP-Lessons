@@ -1,0 +1,7 @@
+D:\C# projects\Enumerations\Enumerations\obj\Debug\Enumerations.csproj.AssemblyReference.cache
+D:\C# projects\Enumerations\Enumerations\obj\Debug\Enumerations.csproj.CoreCompileInputs.cache
+D:\C# projects\Enumerations\Enumerations\bin\Debug\Enumerations.exe.config
+D:\C# projects\Enumerations\Enumerations\bin\Debug\Enumerations.exe
+D:\C# projects\Enumerations\Enumerations\bin\Debug\Enumerations.pdb
+D:\C# projects\Enumerations\Enumerations\obj\Debug\Enumerations.exe
+D:\C# projects\Enumerations\Enumerations\obj\Debug\Enumerations.pdb

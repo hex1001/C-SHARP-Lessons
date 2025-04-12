@@ -1,0 +1,7 @@
+D:\C# projects\StaticData\StaticData\obj\Debug\StaticData.csproj.AssemblyReference.cache
+D:\C# projects\StaticData\StaticData\obj\Debug\StaticData.csproj.CoreCompileInputs.cache
+D:\C# projects\StaticData\StaticData\bin\Debug\StaticData.exe
+D:\C# projects\StaticData\StaticData\bin\Debug\StaticData.pdb
+D:\C# projects\StaticData\StaticData\obj\Debug\StaticData.exe
+D:\C# projects\StaticData\StaticData\obj\Debug\StaticData.pdb
+D:\C# projects\StaticData\StaticData\bin\Debug\StaticData.exe.config

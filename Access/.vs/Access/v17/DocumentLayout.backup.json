@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# projects\\Access\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFC9FE8-7C4C-4708-91AF-15FBDFD555CE}|Access\\Access.csproj|d:\\c# projects\\access\\access\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BFC9FE8-7C4C-4708-91AF-15FBDFD555CE}|Access\\Access.csproj|solutionrelative:access\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFC9FE8-7C4C-4708-91AF-15FBDFD555CE}|Access\\Access.csproj|d:\\c# projects\\access\\access\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BFC9FE8-7C4C-4708-91AF-15FBDFD555CE}|Access\\Access.csproj|solutionrelative:access\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFC9FE8-7C4C-4708-91AF-15FBDFD555CE}|Access\\Access.csproj|d:\\c# projects\\access\\access\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BFC9FE8-7C4C-4708-91AF-15FBDFD555CE}|Access\\Access.csproj|solutionrelative:access\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\C# projects\\Access\\Access\\User.cs",
+              "RelativeDocumentMoniker": "Access\\User.cs",
+              "ToolTip": "D:\\C# projects\\Access\\Access\\User.cs",
+              "RelativeToolTip": "Access\\User.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T07:28:51.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\C# projects\\Access\\Access\\Person.cs",
+              "RelativeDocumentMoniker": "Access\\Person.cs",
+              "ToolTip": "D:\\C# projects\\Access\\Access\\Person.cs",
+              "RelativeToolTip": "Access\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T07:10:15.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C# projects\\Access\\Access\\Program.cs",
+              "RelativeDocumentMoniker": "Access\\Program.cs",
+              "ToolTip": "D:\\C# projects\\Access\\Access\\Program.cs",
+              "RelativeToolTip": "Access\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T07:09:59.792Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

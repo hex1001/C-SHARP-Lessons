@@ -1,0 +1,6 @@
+D:\C# projects\ScopeOfVariables\ScopeOfVariables\obj\Debug\ScopeOfVariables.csproj.AssemblyReference.cache
+D:\C# projects\ScopeOfVariables\ScopeOfVariables\obj\Debug\ScopeOfVariables.csproj.CoreCompileInputs.cache
+D:\C# projects\ScopeOfVariables\ScopeOfVariables\bin\Debug\ScopeOfVariables.exe
+D:\C# projects\ScopeOfVariables\ScopeOfVariables\bin\Debug\ScopeOfVariables.pdb
+D:\C# projects\ScopeOfVariables\ScopeOfVariables\obj\Debug\ScopeOfVariables.exe
+D:\C# projects\ScopeOfVariables\ScopeOfVariables\obj\Debug\ScopeOfVariables.pdb

@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# projects\\StaticData\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC4BD992-2EED-4F6F-9545-CFB1162156AB}|StaticData\\StaticData.csproj|D:\\C# projects\\StaticData\\staticdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC4BD992-2EED-4F6F-9545-CFB1162156AB}|StaticData\\StaticData.csproj|solutionrelative:staticdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC4BD992-2EED-4F6F-9545-CFB1162156AB}|StaticData\\StaticData.csproj|d:\\c# projects\\staticdata\\staticdata\\mymath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC4BD992-2EED-4F6F-9545-CFB1162156AB}|StaticData\\StaticData.csproj|solutionrelative:staticdata\\mymath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC4BD992-2EED-4F6F-9545-CFB1162156AB}|StaticData\\StaticData.csproj|D:\\C# projects\\StaticData\\staticdata\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC4BD992-2EED-4F6F-9545-CFB1162156AB}|StaticData\\StaticData.csproj|solutionrelative:staticdata\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC4BD992-2EED-4F6F-9545-CFB1162156AB}|StaticData\\StaticData.csproj|D:\\C# projects\\StaticData\\staticdata\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC4BD992-2EED-4F6F-9545-CFB1162156AB}|StaticData\\StaticData.csproj|solutionrelative:staticdata\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyMath.cs",
+              "DocumentMoniker": "D:\\C# projects\\StaticData\\StaticData\\MyMath.cs",
+              "RelativeDocumentMoniker": "StaticData\\MyMath.cs",
+              "ToolTip": "D:\\C# projects\\StaticData\\StaticData\\MyMath.cs",
+              "RelativeToolTip": "StaticData\\MyMath.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T10:39:03.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "D:\\C# projects\\StaticData\\StaticData\\Settings.cs",
+              "RelativeDocumentMoniker": "StaticData\\Settings.cs",
+              "ToolTip": "D:\\C# projects\\StaticData\\StaticData\\Settings.cs",
+              "RelativeToolTip": "StaticData\\Settings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T10:29:04.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\C# projects\\StaticData\\StaticData\\Person.cs",
+              "RelativeDocumentMoniker": "StaticData\\Person.cs",
+              "ToolTip": "D:\\C# projects\\StaticData\\StaticData\\Person.cs",
+              "RelativeToolTip": "StaticData\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T10:22:37.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C# projects\\StaticData\\StaticData\\Program.cs",
+              "RelativeDocumentMoniker": "StaticData\\Program.cs",
+              "ToolTip": "D:\\C# projects\\StaticData\\StaticData\\Program.cs",
+              "RelativeToolTip": "StaticData\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T09:49:36.614Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

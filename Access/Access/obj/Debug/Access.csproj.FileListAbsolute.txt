@@ -1,0 +1,6 @@
+D:\C# projects\Access\Access\bin\Debug\Access.exe
+D:\C# projects\Access\Access\bin\Debug\Access.pdb
+D:\C# projects\Access\Access\obj\Debug\Access.csproj.AssemblyReference.cache
+D:\C# projects\Access\Access\obj\Debug\Access.csproj.CoreCompileInputs.cache
+D:\C# projects\Access\Access\obj\Debug\Access.exe
+D:\C# projects\Access\Access\obj\Debug\Access.pdb

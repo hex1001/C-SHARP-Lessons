@@ -1,0 +1,6 @@
+D:\C# projects\StringOperations\StringOperations\bin\Debug\StringOperations.exe
+D:\C# projects\StringOperations\StringOperations\bin\Debug\StringOperations.pdb
+D:\C# projects\StringOperations\StringOperations\obj\Debug\StringOperations.csproj.AssemblyReference.cache
+D:\C# projects\StringOperations\StringOperations\obj\Debug\StringOperations.csproj.CoreCompileInputs.cache
+D:\C# projects\StringOperations\StringOperations\obj\Debug\StringOperations.exe
+D:\C# projects\StringOperations\StringOperations\obj\Debug\StringOperations.pdb

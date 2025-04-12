@@ -1,0 +1,6 @@
+D:\C# projects\Methods\Methods\bin\Debug\Methods.exe
+D:\C# projects\Methods\Methods\bin\Debug\Methods.pdb
+D:\C# projects\Methods\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
+D:\C# projects\Methods\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+D:\C# projects\Methods\Methods\obj\Debug\Methods.exe
+D:\C# projects\Methods\Methods\obj\Debug\Methods.pdb

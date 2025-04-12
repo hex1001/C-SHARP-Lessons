@@ -1,0 +1,6 @@
+D:\C# projects\Cycles\Cycles\bin\Debug\Cycles.exe
+D:\C# projects\Cycles\Cycles\bin\Debug\Cycles.pdb
+D:\C# projects\Cycles\Cycles\obj\Debug\Cycles.csproj.AssemblyReference.cache
+D:\C# projects\Cycles\Cycles\obj\Debug\Cycles.csproj.CoreCompileInputs.cache
+D:\C# projects\Cycles\Cycles\obj\Debug\Cycles.exe
+D:\C# projects\Cycles\Cycles\obj\Debug\Cycles.pdb

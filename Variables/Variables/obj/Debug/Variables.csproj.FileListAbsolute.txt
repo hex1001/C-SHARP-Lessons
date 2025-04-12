@@ -1,0 +1,6 @@
+D:\C# projects\Variables\Variables\bin\Debug\Variables.exe
+D:\C# projects\Variables\Variables\bin\Debug\Variables.pdb
+D:\C# projects\Variables\Variables\obj\Debug\Variables.csproj.AssemblyReference.cache
+D:\C# projects\Variables\Variables\obj\Debug\Variables.csproj.CoreCompileInputs.cache
+D:\C# projects\Variables\Variables\obj\Debug\Variables.exe
+D:\C# projects\Variables\Variables\obj\Debug\Variables.pdb

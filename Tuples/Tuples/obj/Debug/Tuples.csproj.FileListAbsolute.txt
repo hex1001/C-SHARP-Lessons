@@ -1,0 +1,7 @@
+D:\C# projects\Tuples\Tuples\bin\Debug\Tuples.exe.config
+D:\C# projects\Tuples\Tuples\bin\Debug\Tuples.exe
+D:\C# projects\Tuples\Tuples\bin\Debug\Tuples.pdb
+D:\C# projects\Tuples\Tuples\obj\Debug\Tuples.csproj.AssemblyReference.cache
+D:\C# projects\Tuples\Tuples\obj\Debug\Tuples.csproj.CoreCompileInputs.cache
+D:\C# projects\Tuples\Tuples\obj\Debug\Tuples.exe
+D:\C# projects\Tuples\Tuples\obj\Debug\Tuples.pdb
