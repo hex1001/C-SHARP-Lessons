@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# projects\\AnanymousMethodes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D06A3E37-6141-4305-906F-2F1F4E942FBE}|AnanymousMethodes\\AnanymousMethodes.csproj|d:\\c# projects\\ananymousmethodes\\ananymousmethodes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D06A3E37-6141-4305-906F-2F1F4E942FBE}|AnanymousMethodes\\AnanymousMethodes.csproj|solutionrelative:ananymousmethodes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D06A3E37-6141-4305-906F-2F1F4E942FBE}|AnanymousMethodes\\AnanymousMethodes.csproj|d:\\c# projects\\ananymousmethodes\\ananymousmethodes\\usersocial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D06A3E37-6141-4305-906F-2F1F4E942FBE}|AnanymousMethodes\\AnanymousMethodes.csproj|solutionrelative:ananymousmethodes\\usersocial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D06A3E37-6141-4305-906F-2F1F4E942FBE}|AnanymousMethodes\\AnanymousMethodes.csproj|d:\\c# projects\\ananymousmethodes\\ananymousmethodes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D06A3E37-6141-4305-906F-2F1F4E942FBE}|AnanymousMethodes\\AnanymousMethodes.csproj|solutionrelative:ananymousmethodes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D06A3E37-6141-4305-906F-2F1F4E942FBE}|AnanymousMethodes\\AnanymousMethodes.csproj|d:\\c# projects\\ananymousmethodes\\ananymousmethodes\\webmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D06A3E37-6141-4305-906F-2F1F4E942FBE}|AnanymousMethodes\\AnanymousMethodes.csproj|solutionrelative:ananymousmethodes\\webmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebMaster.cs",
+              "DocumentMoniker": "D:\\C# projects\\AnanymousMethodes\\AnanymousMethodes\\WebMaster.cs",
+              "RelativeDocumentMoniker": "AnanymousMethodes\\WebMaster.cs",
+              "ToolTip": "D:\\C# projects\\AnanymousMethodes\\AnanymousMethodes\\WebMaster.cs",
+              "RelativeToolTip": "AnanymousMethodes\\WebMaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T17:53:52.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserSocial.cs",
+              "DocumentMoniker": "D:\\C# projects\\AnanymousMethodes\\AnanymousMethodes\\UserSocial.cs",
+              "RelativeDocumentMoniker": "AnanymousMethodes\\UserSocial.cs",
+              "ToolTip": "D:\\C# projects\\AnanymousMethodes\\AnanymousMethodes\\UserSocial.cs",
+              "RelativeToolTip": "AnanymousMethodes\\UserSocial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T17:53:45.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\C# projects\\AnanymousMethodes\\AnanymousMethodes\\User.cs",
+              "RelativeDocumentMoniker": "AnanymousMethodes\\User.cs",
+              "ToolTip": "D:\\C# projects\\AnanymousMethodes\\AnanymousMethodes\\User.cs",
+              "RelativeToolTip": "AnanymousMethodes\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T17:53:37.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C# projects\\AnanymousMethodes\\AnanymousMethodes\\Program.cs",
+              "RelativeDocumentMoniker": "AnanymousMethodes\\Program.cs",
+              "ToolTip": "D:\\C# projects\\AnanymousMethodes\\AnanymousMethodes\\Program.cs",
+              "RelativeToolTip": "AnanymousMethodes\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T17:45:24.252Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

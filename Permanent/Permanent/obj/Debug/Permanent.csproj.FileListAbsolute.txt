@@ -1,0 +1,7 @@
+D:\C# projects\Permanent\Permanent\bin\Debug\Permanent.exe.config
+D:\C# projects\Permanent\Permanent\bin\Debug\Permanent.exe
+D:\C# projects\Permanent\Permanent\bin\Debug\Permanent.pdb
+D:\C# projects\Permanent\Permanent\obj\Debug\Permanent.csproj.AssemblyReference.cache
+D:\C# projects\Permanent\Permanent\obj\Debug\Permanent.csproj.CoreCompileInputs.cache
+D:\C# projects\Permanent\Permanent\obj\Debug\Permanent.exe
+D:\C# projects\Permanent\Permanent\obj\Debug\Permanent.pdb

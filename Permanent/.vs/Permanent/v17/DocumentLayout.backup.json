@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# projects\\Permanent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1678B06A-9DCF-4D5E-A967-DD1EC942CFA0}|Permanent\\Permanent.csproj|D:\\C# projects\\Permanent\\permanent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1678B06A-9DCF-4D5E-A967-DD1EC942CFA0}|Permanent\\Permanent.csproj|solutionrelative:permanent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1678B06A-9DCF-4D5E-A967-DD1EC942CFA0}|Permanent\\Permanent.csproj|d:\\c# projects\\permanent\\permanent\\mymath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1678B06A-9DCF-4D5E-A967-DD1EC942CFA0}|Permanent\\Permanent.csproj|solutionrelative:permanent\\mymath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyMath.cs",
+              "DocumentMoniker": "D:\\C# projects\\Permanent\\Permanent\\MyMath.cs",
+              "RelativeDocumentMoniker": "Permanent\\MyMath.cs",
+              "ToolTip": "D:\\C# projects\\Permanent\\Permanent\\MyMath.cs",
+              "RelativeToolTip": "Permanent\\MyMath.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T12:06:49.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C# projects\\Permanent\\Permanent\\Program.cs",
+              "RelativeDocumentMoniker": "Permanent\\Program.cs",
+              "ToolTip": "D:\\C# projects\\Permanent\\Permanent\\Program.cs",
+              "RelativeToolTip": "Permanent\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T11:51:18.823Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+D:\C# projects\OverwriteOperator\OverwriteOperator\bin\Debug\OverwriteOperator.exe.config
+D:\C# projects\OverwriteOperator\OverwriteOperator\bin\Debug\OverwriteOperator.exe
+D:\C# projects\OverwriteOperator\OverwriteOperator\bin\Debug\OverwriteOperator.pdb
+D:\C# projects\OverwriteOperator\OverwriteOperator\obj\Debug\OverwriteOperator.csproj.AssemblyReference.cache
+D:\C# projects\OverwriteOperator\OverwriteOperator\obj\Debug\OverwriteOperator.csproj.CoreCompileInputs.cache
+D:\C# projects\OverwriteOperator\OverwriteOperator\obj\Debug\OverwriteOperator.exe
+D:\C# projects\OverwriteOperator\OverwriteOperator\obj\Debug\OverwriteOperator.pdb

@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# projects\\AbstractClass\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96BE1FAF-005C-4F72-9972-A7C71F4ACB6D}|AbstractClass\\AbstractClass.csproj|d:\\c# projects\\abstractclass\\abstractclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96BE1FAF-005C-4F72-9972-A7C71F4ACB6D}|AbstractClass\\AbstractClass.csproj|solutionrelative:abstractclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96BE1FAF-005C-4F72-9972-A7C71F4ACB6D}|AbstractClass\\AbstractClass.csproj|d:\\c# projects\\abstractclass\\abstractclass\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96BE1FAF-005C-4F72-9972-A7C71F4ACB6D}|AbstractClass\\AbstractClass.csproj|solutionrelative:abstractclass\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96BE1FAF-005C-4F72-9972-A7C71F4ACB6D}|AbstractClass\\AbstractClass.csproj|d:\\c# projects\\abstractclass\\abstractclass\\webmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96BE1FAF-005C-4F72-9972-A7C71F4ACB6D}|AbstractClass\\AbstractClass.csproj|solutionrelative:abstractclass\\webmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96BE1FAF-005C-4F72-9972-A7C71F4ACB6D}|AbstractClass\\AbstractClass.csproj|d:\\c# projects\\abstractclass\\abstractclass\\usersocial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96BE1FAF-005C-4F72-9972-A7C71F4ACB6D}|AbstractClass\\AbstractClass.csproj|solutionrelative:abstractclass\\usersocial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C# projects\\AbstractClass\\AbstractClass\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractClass\\Program.cs",
+              "ToolTip": "D:\\C# projects\\AbstractClass\\AbstractClass\\Program.cs",
+              "RelativeToolTip": "AbstractClass\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T15:30:27.145Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebMaster.cs",
+              "DocumentMoniker": "D:\\C# projects\\AbstractClass\\AbstractClass\\WebMaster.cs",
+              "RelativeDocumentMoniker": "AbstractClass\\WebMaster.cs",
+              "ToolTip": "D:\\C# projects\\AbstractClass\\AbstractClass\\WebMaster.cs",
+              "RelativeToolTip": "AbstractClass\\WebMaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T04:55:39.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserSocial.cs",
+              "DocumentMoniker": "D:\\C# projects\\AbstractClass\\AbstractClass\\UserSocial.cs",
+              "RelativeDocumentMoniker": "AbstractClass\\UserSocial.cs",
+              "ToolTip": "D:\\C# projects\\AbstractClass\\AbstractClass\\UserSocial.cs",
+              "RelativeToolTip": "AbstractClass\\UserSocial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T04:55:34.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\C# projects\\AbstractClass\\AbstractClass\\User.cs",
+              "RelativeDocumentMoniker": "AbstractClass\\User.cs",
+              "ToolTip": "D:\\C# projects\\AbstractClass\\AbstractClass\\User.cs",
+              "RelativeToolTip": "AbstractClass\\User.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA8wC8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T04:55:28.734Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

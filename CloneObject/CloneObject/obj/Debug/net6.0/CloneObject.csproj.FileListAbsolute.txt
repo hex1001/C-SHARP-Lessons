@@ -1,0 +1,15 @@
+D:\C# projects\CloneObject\CloneObject\obj\Debug\net6.0\CloneObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# projects\CloneObject\CloneObject\obj\Debug\net6.0\CloneObject.AssemblyInfoInputs.cache
+D:\C# projects\CloneObject\CloneObject\obj\Debug\net6.0\CloneObject.AssemblyInfo.cs
+D:\C# projects\CloneObject\CloneObject\obj\Debug\net6.0\CloneObject.csproj.CoreCompileInputs.cache
+D:\C# projects\CloneObject\CloneObject\obj\Debug\net6.0\CloneObject.sourcelink.json
+D:\C# projects\CloneObject\CloneObject\bin\Debug\net6.0\CloneObject.exe
+D:\C# projects\CloneObject\CloneObject\bin\Debug\net6.0\CloneObject.deps.json
+D:\C# projects\CloneObject\CloneObject\bin\Debug\net6.0\CloneObject.runtimeconfig.json
+D:\C# projects\CloneObject\CloneObject\bin\Debug\net6.0\CloneObject.dll
+D:\C# projects\CloneObject\CloneObject\bin\Debug\net6.0\CloneObject.pdb
+D:\C# projects\CloneObject\CloneObject\obj\Debug\net6.0\CloneObject.dll
+D:\C# projects\CloneObject\CloneObject\obj\Debug\net6.0\refint\CloneObject.dll
+D:\C# projects\CloneObject\CloneObject\obj\Debug\net6.0\CloneObject.pdb
+D:\C# projects\CloneObject\CloneObject\obj\Debug\net6.0\CloneObject.genruntimeconfig.cache
+D:\C# projects\CloneObject\CloneObject\obj\Debug\net6.0\ref\CloneObject.dll

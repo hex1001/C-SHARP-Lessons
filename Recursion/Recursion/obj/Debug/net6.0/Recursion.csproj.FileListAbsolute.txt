@@ -1,0 +1,15 @@
+D:\C# projects\Recursion\Recursion\bin\Debug\net6.0\Recursion.exe
+D:\C# projects\Recursion\Recursion\bin\Debug\net6.0\Recursion.deps.json
+D:\C# projects\Recursion\Recursion\bin\Debug\net6.0\Recursion.runtimeconfig.json
+D:\C# projects\Recursion\Recursion\bin\Debug\net6.0\Recursion.dll
+D:\C# projects\Recursion\Recursion\bin\Debug\net6.0\Recursion.pdb
+D:\C# projects\Recursion\Recursion\obj\Debug\net6.0\Recursion.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# projects\Recursion\Recursion\obj\Debug\net6.0\Recursion.AssemblyInfoInputs.cache
+D:\C# projects\Recursion\Recursion\obj\Debug\net6.0\Recursion.AssemblyInfo.cs
+D:\C# projects\Recursion\Recursion\obj\Debug\net6.0\Recursion.csproj.CoreCompileInputs.cache
+D:\C# projects\Recursion\Recursion\obj\Debug\net6.0\Recursion.sourcelink.json
+D:\C# projects\Recursion\Recursion\obj\Debug\net6.0\Recursion.dll
+D:\C# projects\Recursion\Recursion\obj\Debug\net6.0\refint\Recursion.dll
+D:\C# projects\Recursion\Recursion\obj\Debug\net6.0\Recursion.pdb
+D:\C# projects\Recursion\Recursion\obj\Debug\net6.0\Recursion.genruntimeconfig.cache
+D:\C# projects\Recursion\Recursion\obj\Debug\net6.0\ref\Recursion.dll

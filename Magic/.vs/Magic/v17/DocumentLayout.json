@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# projects\\Magic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30C3AD29-ABD0-4402-9C01-234701A1FA72}|Magic\\Magic.csproj|d:\\c# projects\\magic\\magic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C3AD29-ABD0-4402-9C01-234701A1FA72}|Magic\\Magic.csproj|solutionrelative:magic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C3AD29-ABD0-4402-9C01-234701A1FA72}|Magic\\Magic.csproj|d:\\c# projects\\magic\\magic\\webmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C3AD29-ABD0-4402-9C01-234701A1FA72}|Magic\\Magic.csproj|solutionrelative:magic\\webmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C3AD29-ABD0-4402-9C01-234701A1FA72}|Magic\\Magic.csproj|d:\\c# projects\\magic\\magic\\usersocial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C3AD29-ABD0-4402-9C01-234701A1FA72}|Magic\\Magic.csproj|solutionrelative:magic\\usersocial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C3AD29-ABD0-4402-9C01-234701A1FA72}|Magic\\Magic.csproj|d:\\c# projects\\magic\\magic\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C3AD29-ABD0-4402-9C01-234701A1FA72}|Magic\\Magic.csproj|solutionrelative:magic\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C3AD29-ABD0-4402-9C01-234701A1FA72}|Magic\\Magic.csproj|d:\\c# projects\\magic\\magic\\ilog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C3AD29-ABD0-4402-9C01-234701A1FA72}|Magic\\Magic.csproj|solutionrelative:magic\\ilog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C3AD29-ABD0-4402-9C01-234701A1FA72}|Magic\\Magic.csproj|d:\\c# projects\\magic\\magic\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C3AD29-ABD0-4402-9C01-234701A1FA72}|Magic\\Magic.csproj|solutionrelative:magic\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebMaster.cs",
+              "DocumentMoniker": "D:\\C# projects\\Magic\\Magic\\WebMaster.cs",
+              "RelativeDocumentMoniker": "Magic\\WebMaster.cs",
+              "ToolTip": "D:\\C# projects\\Magic\\Magic\\WebMaster.cs",
+              "RelativeToolTip": "Magic\\WebMaster.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T12:08:04.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ILog.cs",
+              "DocumentMoniker": "D:\\C# projects\\Magic\\Magic\\ILog.cs",
+              "RelativeDocumentMoniker": "Magic\\ILog.cs",
+              "ToolTip": "D:\\C# projects\\Magic\\Magic\\ILog.cs",
+              "RelativeToolTip": "Magic\\ILog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T12:07:57.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserSocial.cs",
+              "DocumentMoniker": "D:\\C# projects\\Magic\\Magic\\UserSocial.cs",
+              "RelativeDocumentMoniker": "Magic\\UserSocial.cs",
+              "ToolTip": "D:\\C# projects\\Magic\\Magic\\UserSocial.cs",
+              "RelativeToolTip": "Magic\\UserSocial.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T12:07:42.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\C# projects\\Magic\\Magic\\User.cs",
+              "RelativeDocumentMoniker": "Magic\\User.cs",
+              "ToolTip": "D:\\C# projects\\Magic\\Magic\\User.cs",
+              "RelativeToolTip": "Magic\\User.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAuwD0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T12:07:27.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Point.cs",
+              "DocumentMoniker": "D:\\C# projects\\Magic\\Magic\\Point.cs",
+              "RelativeDocumentMoniker": "Magic\\Point.cs",
+              "ToolTip": "D:\\C# projects\\Magic\\Magic\\Point.cs",
+              "RelativeToolTip": "Magic\\Point.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA8wCkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T11:07:29.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C# projects\\Magic\\Magic\\Program.cs",
+              "RelativeDocumentMoniker": "Magic\\Program.cs",
+              "ToolTip": "D:\\C# projects\\Magic\\Magic\\Program.cs",
+              "RelativeToolTip": "Magic\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T11:04:35.708Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

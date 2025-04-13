@@ -1,0 +1,7 @@
+D:\C# projects\Extend\Extend\bin\Debug\Extend.exe.config
+D:\C# projects\Extend\Extend\bin\Debug\Extend.exe
+D:\C# projects\Extend\Extend\bin\Debug\Extend.pdb
+D:\C# projects\Extend\Extend\obj\Debug\Extend.csproj.AssemblyReference.cache
+D:\C# projects\Extend\Extend\obj\Debug\Extend.csproj.CoreCompileInputs.cache
+D:\C# projects\Extend\Extend\obj\Debug\Extend.exe
+D:\C# projects\Extend\Extend\obj\Debug\Extend.pdb

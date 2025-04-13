@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# projects\\Events\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{959E3788-1E60-48D2-8578-3D326E82BBAB}|Events\\Events.csproj|d:\\c# projects\\events\\events\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959E3788-1E60-48D2-8578-3D326E82BBAB}|Events\\Events.csproj|solutionrelative:events\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959E3788-1E60-48D2-8578-3D326E82BBAB}|Events\\Events.csproj|d:\\c# projects\\events\\events\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959E3788-1E60-48D2-8578-3D326E82BBAB}|Events\\Events.csproj|solutionrelative:events\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959E3788-1E60-48D2-8578-3D326E82BBAB}|Events\\Events.csproj|d:\\c# projects\\events\\events\\userold.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959E3788-1E60-48D2-8578-3D326E82BBAB}|Events\\Events.csproj|solutionrelative:events\\userold.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959E3788-1E60-48D2-8578-3D326E82BBAB}|Events\\Events.csproj|d:\\c# projects\\events\\events\\usersocial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959E3788-1E60-48D2-8578-3D326E82BBAB}|Events\\Events.csproj|solutionrelative:events\\usersocial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959E3788-1E60-48D2-8578-3D326E82BBAB}|Events\\Events.csproj|d:\\c# projects\\events\\events\\webmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959E3788-1E60-48D2-8578-3D326E82BBAB}|Events\\Events.csproj|solutionrelative:events\\webmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebMaster.cs",
+              "DocumentMoniker": "D:\\C# projects\\Events\\Events\\WebMaster.cs",
+              "RelativeDocumentMoniker": "Events\\WebMaster.cs",
+              "ToolTip": "D:\\C# projects\\Events\\Events\\WebMaster.cs",
+              "RelativeToolTip": "Events\\WebMaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T19:05:27.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserSocial.cs",
+              "DocumentMoniker": "D:\\C# projects\\Events\\Events\\UserSocial.cs",
+              "RelativeDocumentMoniker": "Events\\UserSocial.cs",
+              "ToolTip": "D:\\C# projects\\Events\\Events\\UserSocial.cs",
+              "RelativeToolTip": "Events\\UserSocial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T19:05:23.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\C# projects\\Events\\Events\\User.cs",
+              "RelativeDocumentMoniker": "Events\\User.cs",
+              "ToolTip": "D:\\C# projects\\Events\\Events\\User.cs",
+              "RelativeToolTip": "Events\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T19:05:16.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserOld.cs",
+              "DocumentMoniker": "D:\\C# projects\\Events\\Events\\UserOld.cs",
+              "RelativeDocumentMoniker": "Events\\UserOld.cs",
+              "ToolTip": "D:\\C# projects\\Events\\Events\\UserOld.cs",
+              "RelativeToolTip": "Events\\UserOld.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T18:05:27.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C# projects\\Events\\Events\\Program.cs",
+              "RelativeDocumentMoniker": "Events\\Program.cs",
+              "ToolTip": "D:\\C# projects\\Events\\Events\\Program.cs",
+              "RelativeToolTip": "Events\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T18:04:57.937Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

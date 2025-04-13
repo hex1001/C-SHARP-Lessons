@@ -6,29 +6,48 @@ using System.Threading.Tasks;
 
 namespace Enumerations
 {
+    enum Operations
+    {
+        ADD,
+        SUB,
+        MULTIPLY
+    }
+    enum Direction
+    {
+        NORTH,
+        SOUTH,
+        WEST,
+        EAST
+}
     class Program
     {
         static void Main(string[] args)
         {
-            Move.StartMove(Move.SOUTH);
-            Move.StartMove(Move.NORTH);
-            Move.StartMove(Move.WEST);
+            //Move.StartMove(Direction.EAST);
+            //Move.StartMove(Direction.NORTH);
+            //Move.StartMove(Direction.WEST);
+            Console.WriteLine(Calc(15, 15, Operations.ADD));
+            Console.WriteLine(Calc(15, 15.5, Operations.SUB));
+            Console.WriteLine(Calc(15, 105, Operations.MULTIPLY));
+        }
+        static double Calc(double a, double b, Operations op)
+        {
+            double res = 0;
+            if (op == Operations.ADD) { res = a + b; }
+            else if (op == Operations.SUB) { res = a - b; }
+            else if (op == Operations.MULTIPLY) { res = a * b; }
+            return res;
         }
     }
 
     static class Move
     {
-        public static int NORTH = 1;
-        public static int SOUTH = 2;
-        public static int WEST = 3;
-        public static int EAST = 4;
-
-        public static void StartMove(int d)
+        public static void StartMove(Direction d)
         {
-            if (d == NORTH) { Console.WriteLine("Движемся на Север"); }
-            else if (d == SOUTH) { Console.WriteLine("Движемся на Юг"); }
-            else if (d == WEST) { Console.WriteLine("Движемся на Запад"); }
-            else if (d == EAST) { Console.WriteLine("Движемся на Восток"); }
+            if (d == Direction.NORTH) { Console.WriteLine("Движемся на Север"); }
+            else if (d == Direction.SOUTH) { Console.WriteLine("Движемся на Юг"); }
+            else if (d == Direction.WEST) { Console.WriteLine("Движемся на Запад"); }
+            else if (d == Direction.EAST) { Console.WriteLine("Движемся на Восток"); }
         }
     }
 }

@@ -1,0 +1,15 @@
+D:\C# projects\AnanymousMethodes\AnanymousMethodes\bin\Debug\net6.0\AnanymousMethodes.exe
+D:\C# projects\AnanymousMethodes\AnanymousMethodes\bin\Debug\net6.0\AnanymousMethodes.deps.json
+D:\C# projects\AnanymousMethodes\AnanymousMethodes\bin\Debug\net6.0\AnanymousMethodes.runtimeconfig.json
+D:\C# projects\AnanymousMethodes\AnanymousMethodes\bin\Debug\net6.0\AnanymousMethodes.dll
+D:\C# projects\AnanymousMethodes\AnanymousMethodes\bin\Debug\net6.0\AnanymousMethodes.pdb
+D:\C# projects\AnanymousMethodes\AnanymousMethodes\obj\Debug\net6.0\AnanymousMethodes.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# projects\AnanymousMethodes\AnanymousMethodes\obj\Debug\net6.0\AnanymousMethodes.AssemblyInfoInputs.cache
+D:\C# projects\AnanymousMethodes\AnanymousMethodes\obj\Debug\net6.0\AnanymousMethodes.AssemblyInfo.cs
+D:\C# projects\AnanymousMethodes\AnanymousMethodes\obj\Debug\net6.0\AnanymousMethodes.csproj.CoreCompileInputs.cache
+D:\C# projects\AnanymousMethodes\AnanymousMethodes\obj\Debug\net6.0\AnanymousMethodes.sourcelink.json
+D:\C# projects\AnanymousMethodes\AnanymousMethodes\obj\Debug\net6.0\AnanymousMethodes.dll
+D:\C# projects\AnanymousMethodes\AnanymousMethodes\obj\Debug\net6.0\refint\AnanymousMethodes.dll
+D:\C# projects\AnanymousMethodes\AnanymousMethodes\obj\Debug\net6.0\AnanymousMethodes.pdb
+D:\C# projects\AnanymousMethodes\AnanymousMethodes\obj\Debug\net6.0\AnanymousMethodes.genruntimeconfig.cache
+D:\C# projects\AnanymousMethodes\AnanymousMethodes\obj\Debug\net6.0\ref\AnanymousMethodes.dll

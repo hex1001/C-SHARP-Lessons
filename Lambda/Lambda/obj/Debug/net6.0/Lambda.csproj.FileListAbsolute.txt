@@ -1,0 +1,15 @@
+D:\C# projects\Lambda\Lambda\bin\Debug\net6.0\Lambda.exe
+D:\C# projects\Lambda\Lambda\bin\Debug\net6.0\Lambda.deps.json
+D:\C# projects\Lambda\Lambda\bin\Debug\net6.0\Lambda.runtimeconfig.json
+D:\C# projects\Lambda\Lambda\bin\Debug\net6.0\Lambda.dll
+D:\C# projects\Lambda\Lambda\bin\Debug\net6.0\Lambda.pdb
+D:\C# projects\Lambda\Lambda\obj\Debug\net6.0\Lambda.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# projects\Lambda\Lambda\obj\Debug\net6.0\Lambda.AssemblyInfoInputs.cache
+D:\C# projects\Lambda\Lambda\obj\Debug\net6.0\Lambda.AssemblyInfo.cs
+D:\C# projects\Lambda\Lambda\obj\Debug\net6.0\Lambda.csproj.CoreCompileInputs.cache
+D:\C# projects\Lambda\Lambda\obj\Debug\net6.0\Lambda.sourcelink.json
+D:\C# projects\Lambda\Lambda\obj\Debug\net6.0\Lambda.dll
+D:\C# projects\Lambda\Lambda\obj\Debug\net6.0\refint\Lambda.dll
+D:\C# projects\Lambda\Lambda\obj\Debug\net6.0\Lambda.pdb
+D:\C# projects\Lambda\Lambda\obj\Debug\net6.0\Lambda.genruntimeconfig.cache
+D:\C# projects\Lambda\Lambda\obj\Debug\net6.0\ref\Lambda.dll
